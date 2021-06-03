@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations in the behalf of foreiners, which reside in England ...</title>
+            <author>Herbert, William, fl. 1634-1662.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24100</idno><idno type="EEBO-CITATION">18320157</idno>
+  <idno type="VID">206504</idno>
+  <idno type="EEBO-PROQUEST">2240905035</idno>
+  
+            <idno type="STC">Wing H1541</idno>
+            <idno type="OCLC">18320157</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations in the behalf of foreiners, which reside in England ...</title>
+                  <author>Herbert, William, fl. 1634-1662.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sarah Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Other title information from first line of text.</note>
+                  <note>Signed at end: W. Herbert.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of movement --  Europe.</term>
+               <term type="topical_term">Free enterprise.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Europe.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:206504:1"/>
+            <head>CONSIDERATIONS</head>
+            <p>IN the behalf of Foreiners, which reside in <hi>England;</hi> and of the <hi>English,</hi> who are out of their own Countrey,</p>
+            <p>To allay the tempest, which is too often rais'd in the minds of the vulgar sort; and to sweeten the bitterness of a bilious, or cholerick humor against strangers, 'tis good to Consider,</p>
+            <p n="1">1 That wise Nature produces no animal, although never so vile in the eyes of others, which desire not to preserve his being, and which, consequently, seek not the means of self-preservation.</p>
+            <p n="2">2 That in order to that, and by Natures Instinct, Beasts change often their pa<g ref="char:EOLhyphen"/>stures and quarters: Birds flie from Country to Countrey: and I ishes swim from Sea to Sea, yea enter into our Rivers.</p>
+            <p n="3">3 That it is likewise for that end, that men do oft leave their Native Countrey, because it is, either too populous, and so one cannot live by the other; or too steril, and so it is not sufficient for all; or that the Air is contrary to their constitution; or that they have puissant enemies; or that the taxes are so great, that they can<g ref="char:EOLhyphen"/>not be born; or finally, that the Laws threaten them with loss of liberty or life for crime, or do not permit them the free exercise of their Religion.</p>
+            <p n="4">4 That God having <hi>made of one bloud all nations of men, to dwell over all the face of the Earth,</hi> it is a mark of Piety, and a duty of Humanity, to cherish that bloud.</p>
+            <p n="5">5 That on that ground, the Wise and Religious, esteeming not that person a stranger, which hath the shape of a man, and the knowledge of God, have in all a<g ref="char:EOLhyphen"/>ges approv'd negotiations and conversation with others of their own species: and so 'twas free for all to travell from place to place, every one profesting his Science, teaching his Art, and working at his Trade; thus to entertain the Communion, which ought to be among all men, by a voluntary communication of the industry of their wits, the dexterity of their hands, and goods of their countreys.</p>
+            <p n="6">6 That though the Earth have been divided into many Countreys, for the habi<g ref="char:EOLhyphen"/>tation and inheritance of some Patriarchs; and each Countrey, subdivided into ma<g ref="char:EOLhyphen"/>ny parts or cantons, for their branches or twigs: yet all those Countreys (except <hi>China</hi>) have always been open to persons of other Nations, who (since <hi>God <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th given the Earth to the children of men</hi>) might justly complain, if they had not the li<g ref="char:EOLhyphen"/>berty to dwell where it seems good to them, in behaving themselves wisely, living according to the laws of the Land, and not presuming to play the Criticks in State-affairs, whether Civill or Ecclesiasticall, no not so much in the humors nor man<g ref="char:EOLhyphen"/>ners of the Natives.</p>
+            <pb n="2" facs="tcp:206504:2"/>
+            <p n="7">7 That if this <hi>Libertie</hi> had not been given heretofore, and were not still enjoy'd, the proverb of one of the Wise men of old had had no ground, when it was made, nor could be now verifyd amongst us; <hi>The wise is every where in his Countrey,</hi> that is, he can live every where, as well as in his Native Soil; as carrying with him his Sci<g ref="char:EOLhyphen"/>ence, to teach; his Civility to gain love; or his hands, to labour.</p>
+            <p n="8">8 That this <hi>Liberty</hi> of teaching and working every where, is as clear as the light in Histories, both holy and profane: and it is evident, that the grand Apostle of the Gentiles, made use of it to maintain himself in divers Countries <hi>by his own la<g ref="char:EOLhyphen"/>bour,</hi> that he might not be chargeable to the Churches of God, <hi>Acts</hi> 18.3. &amp; 20.34. 1 <hi>Cor.</hi> 4.12. 1 <hi>Thes.</hi> 2.9. 2 <hi>Thes.</hi> 3.8.</p>
+            <p n="9">9 That God having commanded the <hi>Jews</hi> (a covetous, and inhumane nation) to be civill and courteous to strangers: he shews himself more cruell then a Jew, who goes about to expell them out of a Land, where they (poor souls) indeavour to live by their own labor.</p>
+            <p n="10">10 That those Nations, which do refuse to intertain Strangers, or have nothing in their country to attract them, are commonly the least Civill; and have but little of humane Prudence, and divine Knowledge.</p>
+            <p n="11">11 That of all Nations of <hi>Europe,</hi> the <hi>English</hi> and <hi>French</hi> should love one ano<g ref="char:EOLhyphen"/>ther best, as well for their Vicinity, as for the great Commerce which is 'mongst them in time of Peace, and for their Consanguinitie, there being in this Countrie thousands of Families, which are descended from the <hi>French;</hi> and as many or more in <hi>France,</hi> whose Progenitors were <hi>English.</hi>
+            </p>
+            <p n="12">12 That between the greatest part of the <hi>French,</hi> which are in this Countrey, and of th' <hi>English,</hi> there is another band or tie, stronger then flesh and bloud, and more considerable then Neighbourhood and Negotiation: I mean the Communion of Saints; for since they acknowledge and adore the same God, and serve him the same way, indevouring to adjust their thoughts, affections, words, actions to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ule, he hath given them, they ought to love one another dearly, as good <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellow<g ref="char:EOLhyphen"/>servants, Members of one bodie, Children of one Father, and thus Joint, heirs of one and the same Happiness.</p>
+            <p n="13">13 That the English are greatly mistaken in their Calculation or Catalogue of the French, living here, esteeming such all those that speak their tongue: so that the high <hi>Germans, Switzers</hi> of the <hi>French</hi> tongue, <hi>Danes, Swedes, Dutch, Walloons,</hi> and those of <hi>Geneva</hi> pass for good <hi>French</hi> in the opinion of many, although in truth, there are not here two Naturall <hi>French</hi> 'mongst ten, which are taken for such, or who for their profit, would gladly go for such.</p>
+            <p n="14">14 That if the <hi>French</hi> and other strangers have any dealing and trading with the <hi>English,</hi> it is because these, as a free Nation, are willing to make use of them, delight in their dexterity, and do admire their Inventions, confessing, 'tis from them, that the Natives have many sine Manufactures, and learnt of them pretty knacks, and excellent things.</p>
+            <pb n="3" facs="tcp:206504:2"/>
+            <p n="15">15 That unless it be prov'd, either that those strangers force the Natives of this Country, to take their Wares, or to make use of their service; or that the <hi>English</hi> have not the liberty to do either, ther's no wise man that can condemn the Natives nor Aliens.</p>
+            <p n="16">16 That it cannot be said without temeritie, that the <hi>English,</hi> to follow their caprichio, or foolish fancy, employ any Strangers: since many do't, either by rea<g ref="char:EOLhyphen"/>son of some acquaintance or familiarity, they had before with those Strangers; or through compassion of their poverty; or in consideration of their Religion; or because the commodities and work of those Strangers please them better; or that they stand in need of them, and perhaps that they are cheaper.</p>
+            <p n="17">17 That if Aliens have not the <hi>Liberty</hi> to trade and work in this Country, ma<g ref="char:EOLhyphen"/>ny of them cannot long subsist here, yet dare not go back into <hi>Flanders,</hi> where the greatest part of them were born, nor others, into <hi>France</hi> nor <hi>Italie,</hi> by reason of their Religion; and so they will be reduc'd to mendicitie, or expos'd to greater mischiefs; wheras now by the fruits of their labor and industry, they entertain many hundreds of poor persons, and about sixteen Ministers of the holy Gospel, in 12 or 13 Churches, they have in this Kingdom.</p>
+            <p n="18">18 That if they be depriv'd of this <hi>Liberty,</hi> their Churches, which have been stablisht in this Realm, will infallibly cease and be dissipated, under the pious and prudent government of our Religious and Gracious Monarch, to the great grief of all the Reformed Churches abroad, but to the great joy of their Adversaries, who will greatly triumph at such a sad dissipation. And certainly this August Prince and his great Parliament do not intend that these poor Churches be brought to no<g ref="char:EOLhyphen"/>thing: since that in their behalf they have of late inserted an Article or Proviso in the Act of Uniformity: and it is a wonder to see, that those who acknowledge, that the King of <hi>England</hi> is also King of <hi>France,</hi> and Defender of the Faith, can find in their hearts to bandie themselves against those, who, upon that account, are his Subjects; and murmur against their brethren, the poor Protestants; since both come into this Countrey, to live Peaceably and Religiously, under the protection which he ows them, as King to his good Subjects; and as Defender of the Faith, unto Religious Souls, faithfull Christians, and holy Members of the Son of God.</p>
+            <p n="19">19 That if their Churches (which God forbid) be thus disperst, many of their Members will be able to say with the Prophet <hi>leremie,</hi> in a spirituall sense; <hi>The young children ask bread, and no man breaks it unto them:</hi> For, understanding none or but little English, there will be here no man to afford them the bread of life, and to direct them in the ways of their eternall salvation, in preaching unto them the Golpel of Christ, in <hi>French,</hi> low <hi>Dutch,</hi> and <hi>Italian:</hi> and so this Land will cease to be a place of Refuge and Consolation to those poor Protestants, who are persecuted in their own Countries.</p>
+            <p n="20">That finally, many of the English, whom passion and private interest stir up against strangers, have been, they and their fore-fathers, in a condition to implore
+<pb n="4" facs="tcp:206504:3"/>their counteous Neighbours help: Their Grandfathers, in Queen <hi>Maries</hi> days; and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>selves, during the late troubles of this State. They may read in their <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ories and <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>shop <hi>Jewel,</hi> who speaks of it by experience, the good us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of neighbouring Nations to their Religious Ancestors: And concerning themselves, they know, how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been treated abroad, during these horrid disorders. If <hi>well,</hi> as most of them h<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> been, yea by persons dissenting from them in many points of Religion; both Gratitude and Generosity oblige them to render like for like, in shewing to strangers as much Charity and Civility, as they have receiv'd in their want. If <hi>ill,</hi> as it must be confest, too many have been so, yea by persons who ow'd them more Civilities; they know full well, that vengeance is forbid, and that God commands them to render good for evill. And morover, they know a<g ref="char:EOLhyphen"/>gain, that these poor souls, who live here among them, are not the vile persons, who in their pressing wants, refus'd them the effects, Humanity did then require (not to speak here of what was due to the Greatness, Bloud and Merits of some of them) but that these duties were deni'd, by meer <hi>Tygers</hi> in humane shape; by <hi>hearts</hi> most barbarous, and by <hi>minds</hi> altogether wild, which they must not propose unto themselves, as fair models of their vertuous actions.</p>
+            <p>
+               <hi>As man is Rational, and thus oblig'd to act always according to the rules, Reason dictates, and Justice does require; I have no cause to doubt, that these</hi> Considerations <hi>do not powrfully invite us to cast most gracious looks one upon another, to love any man tenderly, and to seek and embrace all occasions to serve others, as we are desirous to be assisted in our wants.</hi>
+            </p>
+            <p>
+               <hi>If my little Labor produce these verie sweet, these most delightfull Fruits, my Re<g ref="char:EOLhyphen"/>compence is great, and my Joy will be excessive.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Charter-House London.</hi>
+               </dateline>
+               <signed>W. HERBERT.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <dateline>Ex Aed. Sab. <date>18. <hi>Jun.</hi> 1662.</date>
+               </dateline>
+               <signed>G. Stradling S. Th. D. Reverendo in Christo Patri Domino Gilb. Eppo. Londinensi à sacr. Domest.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Sarah Griffin,</hi> 1662.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206504:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
